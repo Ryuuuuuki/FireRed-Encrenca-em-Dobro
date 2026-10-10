@@ -1,3 +1,5 @@
+![Pokémon FireRed Duo — Encrenca em Dobro](imagens/00_capa.png)
+
 # Pokémon FireRed Duo — Encrenca em Dobro (beta)
 
 **A two-player online Nuzlocke for Pokémon FireRed.** Each player runs their own game on their own PC, and every trainer battle is a co-op double battle against two clones of the trainer.
